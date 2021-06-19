@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.invite">
+    package="com.kismetapps.invite">
    <application
         android:label="invite"
         android:icon="@mipmap/ic_launcher">

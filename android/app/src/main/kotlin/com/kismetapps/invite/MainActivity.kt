@@ -1,4 +1,4 @@
-package com.example.invite
+package com.kismetapps.invite
 
 import io.flutter.embedding.android.FlutterActivity
 
